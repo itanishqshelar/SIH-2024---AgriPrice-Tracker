@@ -74,7 +74,10 @@ The application will open at http://localhost:3000
 
 ## Screenshots
 
-[Add screenshots of your application here]
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96faebf8-4a30-4a9c-a749-f15420db1c91" />
+<img width="1894" height="1079" alt="image" src="https://github.com/user-attachments/assets/2505ecfc-fb09-4cdf-bc3f-7663ac7c1e45" />
+
+
 
 ## Contributing
 
